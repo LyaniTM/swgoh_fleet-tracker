@@ -1,5 +1,5 @@
 {
-  "name": "simple-swgoh-arena-tracker",
+  "name": "swgoh_fleet-tracker",
   "description": "Simple-SWGOH arena tracker",
   "repository": "https://github.com/LyaniTM/swgoh_fleet-tracker",
   "keywords": ["docker"],
